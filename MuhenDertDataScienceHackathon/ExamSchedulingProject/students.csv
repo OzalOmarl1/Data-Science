@@ -1,0 +1,1201 @@
+Student_ID,Name,Major,Year
+S00001,Ogrenci_1,Psikoloji,4
+S00002,Ogrenci_2,Psikoloji,1
+S00003,Ogrenci_3,Psikoloji,2
+S00004,Ogrenci_4,Mimarlik,1
+S00005,Ogrenci_5,Bilgisayar Muh.,2
+S00006,Ogrenci_6,Isletme,4
+S00007,Ogrenci_7,Isletme,2
+S00008,Ogrenci_8,Psikoloji,2
+S00009,Ogrenci_9,Psikoloji,2
+S00010,Ogrenci_10,Isletme,2
+S00011,Ogrenci_11,Bilgisayar Muh.,2
+S00012,Ogrenci_12,Isletme,2
+S00013,Ogrenci_13,Bilgisayar Muh.,2
+S00014,Ogrenci_14,Mimarlik,4
+S00015,Ogrenci_15,Mimarlik,4
+S00016,Ogrenci_16,Endustri Muh.,2
+S00017,Ogrenci_17,Isletme,1
+S00018,Ogrenci_18,Psikoloji,3
+S00019,Ogrenci_19,Psikoloji,1
+S00020,Ogrenci_20,Psikoloji,4
+S00021,Ogrenci_21,Endustri Muh.,3
+S00022,Ogrenci_22,Bilgisayar Muh.,1
+S00023,Ogrenci_23,Bilgisayar Muh.,3
+S00024,Ogrenci_24,Psikoloji,2
+S00025,Ogrenci_25,Endustri Muh.,3
+S00026,Ogrenci_26,Bilgisayar Muh.,4
+S00027,Ogrenci_27,Bilgisayar Muh.,4
+S00028,Ogrenci_28,Bilgisayar Muh.,1
+S00029,Ogrenci_29,Isletme,4
+S00030,Ogrenci_30,Bilgisayar Muh.,2
+S00031,Ogrenci_31,Psikoloji,1
+S00032,Ogrenci_32,Bilgisayar Muh.,3
+S00033,Ogrenci_33,Bilgisayar Muh.,4
+S00034,Ogrenci_34,Psikoloji,1
+S00035,Ogrenci_35,Isletme,2
+S00036,Ogrenci_36,Isletme,4
+S00037,Ogrenci_37,Endustri Muh.,2
+S00038,Ogrenci_38,Mimarlik,2
+S00039,Ogrenci_39,Endustri Muh.,2
+S00040,Ogrenci_40,Bilgisayar Muh.,3
+S00041,Ogrenci_41,Isletme,1
+S00042,Ogrenci_42,Endustri Muh.,3
+S00043,Ogrenci_43,Mimarlik,2
+S00044,Ogrenci_44,Psikoloji,4
+S00045,Ogrenci_45,Endustri Muh.,1
+S00046,Ogrenci_46,Psikoloji,2
+S00047,Ogrenci_47,Bilgisayar Muh.,4
+S00048,Ogrenci_48,Isletme,2
+S00049,Ogrenci_49,Psikoloji,3
+S00050,Ogrenci_50,Psikoloji,4
+S00051,Ogrenci_51,Isletme,3
+S00052,Ogrenci_52,Mimarlik,4
+S00053,Ogrenci_53,Isletme,3
+S00054,Ogrenci_54,Isletme,4
+S00055,Ogrenci_55,Mimarlik,4
+S00056,Ogrenci_56,Psikoloji,2
+S00057,Ogrenci_57,Isletme,3
+S00058,Ogrenci_58,Endustri Muh.,3
+S00059,Ogrenci_59,Psikoloji,1
+S00060,Ogrenci_60,Mimarlik,4
+S00061,Ogrenci_61,Isletme,3
+S00062,Ogrenci_62,Bilgisayar Muh.,2
+S00063,Ogrenci_63,Mimarlik,3
+S00064,Ogrenci_64,Psikoloji,4
+S00065,Ogrenci_65,Isletme,3
+S00066,Ogrenci_66,Mimarlik,1
+S00067,Ogrenci_67,Isletme,1
+S00068,Ogrenci_68,Mimarlik,4
+S00069,Ogrenci_69,Bilgisayar Muh.,4
+S00070,Ogrenci_70,Isletme,1
+S00071,Ogrenci_71,Mimarlik,2
+S00072,Ogrenci_72,Mimarlik,3
+S00073,Ogrenci_73,Mimarlik,3
+S00074,Ogrenci_74,Endustri Muh.,1
+S00075,Ogrenci_75,Psikoloji,4
+S00076,Ogrenci_76,Endustri Muh.,2
+S00077,Ogrenci_77,Bilgisayar Muh.,4
+S00078,Ogrenci_78,Endustri Muh.,3
+S00079,Ogrenci_79,Isletme,1
+S00080,Ogrenci_80,Psikoloji,4
+S00081,Ogrenci_81,Bilgisayar Muh.,4
+S00082,Ogrenci_82,Psikoloji,4
+S00083,Ogrenci_83,Mimarlik,4
+S00084,Ogrenci_84,Bilgisayar Muh.,2
+S00085,Ogrenci_85,Bilgisayar Muh.,1
+S00086,Ogrenci_86,Bilgisayar Muh.,1
+S00087,Ogrenci_87,Psikoloji,3
+S00088,Ogrenci_88,Psikoloji,2
+S00089,Ogrenci_89,Endustri Muh.,2
+S00090,Ogrenci_90,Bilgisayar Muh.,4
+S00091,Ogrenci_91,Endustri Muh.,4
+S00092,Ogrenci_92,Endustri Muh.,3
+S00093,Ogrenci_93,Endustri Muh.,4
+S00094,Ogrenci_94,Mimarlik,1
+S00095,Ogrenci_95,Endustri Muh.,1
+S00096,Ogrenci_96,Bilgisayar Muh.,2
+S00097,Ogrenci_97,Endustri Muh.,1
+S00098,Ogrenci_98,Isletme,3
+S00099,Ogrenci_99,Endustri Muh.,2
+S00100,Ogrenci_100,Mimarlik,1
+S00101,Ogrenci_101,Mimarlik,3
+S00102,Ogrenci_102,Psikoloji,2
+S00103,Ogrenci_103,Isletme,1
+S00104,Ogrenci_104,Bilgisayar Muh.,3
+S00105,Ogrenci_105,Bilgisayar Muh.,2
+S00106,Ogrenci_106,Psikoloji,1
+S00107,Ogrenci_107,Psikoloji,3
+S00108,Ogrenci_108,Psikoloji,1
+S00109,Ogrenci_109,Psikoloji,4
+S00110,Ogrenci_110,Bilgisayar Muh.,2
+S00111,Ogrenci_111,Psikoloji,2
+S00112,Ogrenci_112,Mimarlik,1
+S00113,Ogrenci_113,Isletme,2
+S00114,Ogrenci_114,Mimarlik,3
+S00115,Ogrenci_115,Isletme,4
+S00116,Ogrenci_116,Endustri Muh.,2
+S00117,Ogrenci_117,Endustri Muh.,2
+S00118,Ogrenci_118,Isletme,1
+S00119,Ogrenci_119,Bilgisayar Muh.,3
+S00120,Ogrenci_120,Mimarlik,3
+S00121,Ogrenci_121,Isletme,3
+S00122,Ogrenci_122,Bilgisayar Muh.,3
+S00123,Ogrenci_123,Isletme,1
+S00124,Ogrenci_124,Psikoloji,4
+S00125,Ogrenci_125,Endustri Muh.,2
+S00126,Ogrenci_126,Bilgisayar Muh.,1
+S00127,Ogrenci_127,Bilgisayar Muh.,4
+S00128,Ogrenci_128,Endustri Muh.,4
+S00129,Ogrenci_129,Psikoloji,3
+S00130,Ogrenci_130,Isletme,2
+S00131,Ogrenci_131,Bilgisayar Muh.,2
+S00132,Ogrenci_132,Isletme,2
+S00133,Ogrenci_133,Bilgisayar Muh.,3
+S00134,Ogrenci_134,Mimarlik,3
+S00135,Ogrenci_135,Isletme,1
+S00136,Ogrenci_136,Psikoloji,2
+S00137,Ogrenci_137,Mimarlik,4
+S00138,Ogrenci_138,Mimarlik,4
+S00139,Ogrenci_139,Isletme,2
+S00140,Ogrenci_140,Isletme,1
+S00141,Ogrenci_141,Endustri Muh.,2
+S00142,Ogrenci_142,Mimarlik,2
+S00143,Ogrenci_143,Bilgisayar Muh.,4
+S00144,Ogrenci_144,Mimarlik,4
+S00145,Ogrenci_145,Bilgisayar Muh.,2
+S00146,Ogrenci_146,Mimarlik,4
+S00147,Ogrenci_147,Endustri Muh.,4
+S00148,Ogrenci_148,Isletme,3
+S00149,Ogrenci_149,Psikoloji,1
+S00150,Ogrenci_150,Mimarlik,4
+S00151,Ogrenci_151,Endustri Muh.,3
+S00152,Ogrenci_152,Isletme,1
+S00153,Ogrenci_153,Isletme,3
+S00154,Ogrenci_154,Isletme,1
+S00155,Ogrenci_155,Mimarlik,4
+S00156,Ogrenci_156,Bilgisayar Muh.,1
+S00157,Ogrenci_157,Mimarlik,4
+S00158,Ogrenci_158,Mimarlik,3
+S00159,Ogrenci_159,Endustri Muh.,1
+S00160,Ogrenci_160,Bilgisayar Muh.,3
+S00161,Ogrenci_161,Psikoloji,2
+S00162,Ogrenci_162,Endustri Muh.,4
+S00163,Ogrenci_163,Bilgisayar Muh.,4
+S00164,Ogrenci_164,Isletme,2
+S00165,Ogrenci_165,Bilgisayar Muh.,2
+S00166,Ogrenci_166,Isletme,3
+S00167,Ogrenci_167,Psikoloji,4
+S00168,Ogrenci_168,Psikoloji,1
+S00169,Ogrenci_169,Endustri Muh.,1
+S00170,Ogrenci_170,Mimarlik,2
+S00171,Ogrenci_171,Mimarlik,4
+S00172,Ogrenci_172,Endustri Muh.,2
+S00173,Ogrenci_173,Psikoloji,2
+S00174,Ogrenci_174,Bilgisayar Muh.,1
+S00175,Ogrenci_175,Mimarlik,3
+S00176,Ogrenci_176,Endustri Muh.,2
+S00177,Ogrenci_177,Psikoloji,2
+S00178,Ogrenci_178,Endustri Muh.,3
+S00179,Ogrenci_179,Endustri Muh.,1
+S00180,Ogrenci_180,Mimarlik,1
+S00181,Ogrenci_181,Bilgisayar Muh.,2
+S00182,Ogrenci_182,Endustri Muh.,1
+S00183,Ogrenci_183,Bilgisayar Muh.,4
+S00184,Ogrenci_184,Mimarlik,3
+S00185,Ogrenci_185,Bilgisayar Muh.,4
+S00186,Ogrenci_186,Endustri Muh.,3
+S00187,Ogrenci_187,Isletme,3
+S00188,Ogrenci_188,Psikoloji,1
+S00189,Ogrenci_189,Bilgisayar Muh.,1
+S00190,Ogrenci_190,Endustri Muh.,4
+S00191,Ogrenci_191,Mimarlik,4
+S00192,Ogrenci_192,Bilgisayar Muh.,3
+S00193,Ogrenci_193,Mimarlik,1
+S00194,Ogrenci_194,Isletme,4
+S00195,Ogrenci_195,Mimarlik,4
+S00196,Ogrenci_196,Bilgisayar Muh.,2
+S00197,Ogrenci_197,Mimarlik,4
+S00198,Ogrenci_198,Bilgisayar Muh.,2
+S00199,Ogrenci_199,Isletme,3
+S00200,Ogrenci_200,Psikoloji,1
+S00201,Ogrenci_201,Bilgisayar Muh.,1
+S00202,Ogrenci_202,Isletme,4
+S00203,Ogrenci_203,Psikoloji,3
+S00204,Ogrenci_204,Bilgisayar Muh.,2
+S00205,Ogrenci_205,Mimarlik,3
+S00206,Ogrenci_206,Psikoloji,2
+S00207,Ogrenci_207,Psikoloji,3
+S00208,Ogrenci_208,Endustri Muh.,2
+S00209,Ogrenci_209,Mimarlik,4
+S00210,Ogrenci_210,Mimarlik,4
+S00211,Ogrenci_211,Isletme,4
+S00212,Ogrenci_212,Mimarlik,4
+S00213,Ogrenci_213,Isletme,4
+S00214,Ogrenci_214,Mimarlik,1
+S00215,Ogrenci_215,Psikoloji,4
+S00216,Ogrenci_216,Isletme,3
+S00217,Ogrenci_217,Isletme,2
+S00218,Ogrenci_218,Bilgisayar Muh.,3
+S00219,Ogrenci_219,Endustri Muh.,1
+S00220,Ogrenci_220,Bilgisayar Muh.,4
+S00221,Ogrenci_221,Mimarlik,4
+S00222,Ogrenci_222,Mimarlik,1
+S00223,Ogrenci_223,Psikoloji,2
+S00224,Ogrenci_224,Isletme,3
+S00225,Ogrenci_225,Bilgisayar Muh.,1
+S00226,Ogrenci_226,Endustri Muh.,1
+S00227,Ogrenci_227,Bilgisayar Muh.,3
+S00228,Ogrenci_228,Mimarlik,2
+S00229,Ogrenci_229,Mimarlik,2
+S00230,Ogrenci_230,Isletme,2
+S00231,Ogrenci_231,Bilgisayar Muh.,3
+S00232,Ogrenci_232,Mimarlik,4
+S00233,Ogrenci_233,Mimarlik,3
+S00234,Ogrenci_234,Isletme,1
+S00235,Ogrenci_235,Bilgisayar Muh.,2
+S00236,Ogrenci_236,Bilgisayar Muh.,4
+S00237,Ogrenci_237,Endustri Muh.,3
+S00238,Ogrenci_238,Psikoloji,2
+S00239,Ogrenci_239,Endustri Muh.,4
+S00240,Ogrenci_240,Bilgisayar Muh.,1
+S00241,Ogrenci_241,Bilgisayar Muh.,3
+S00242,Ogrenci_242,Mimarlik,4
+S00243,Ogrenci_243,Isletme,3
+S00244,Ogrenci_244,Psikoloji,1
+S00245,Ogrenci_245,Mimarlik,2
+S00246,Ogrenci_246,Psikoloji,3
+S00247,Ogrenci_247,Endustri Muh.,2
+S00248,Ogrenci_248,Mimarlik,2
+S00249,Ogrenci_249,Isletme,4
+S00250,Ogrenci_250,Isletme,1
+S00251,Ogrenci_251,Endustri Muh.,2
+S00252,Ogrenci_252,Bilgisayar Muh.,2
+S00253,Ogrenci_253,Mimarlik,4
+S00254,Ogrenci_254,Mimarlik,3
+S00255,Ogrenci_255,Psikoloji,4
+S00256,Ogrenci_256,Bilgisayar Muh.,3
+S00257,Ogrenci_257,Isletme,2
+S00258,Ogrenci_258,Bilgisayar Muh.,2
+S00259,Ogrenci_259,Endustri Muh.,3
+S00260,Ogrenci_260,Isletme,2
+S00261,Ogrenci_261,Endustri Muh.,1
+S00262,Ogrenci_262,Mimarlik,3
+S00263,Ogrenci_263,Mimarlik,3
+S00264,Ogrenci_264,Isletme,1
+S00265,Ogrenci_265,Psikoloji,4
+S00266,Ogrenci_266,Mimarlik,4
+S00267,Ogrenci_267,Isletme,2
+S00268,Ogrenci_268,Endustri Muh.,4
+S00269,Ogrenci_269,Mimarlik,2
+S00270,Ogrenci_270,Isletme,1
+S00271,Ogrenci_271,Mimarlik,4
+S00272,Ogrenci_272,Isletme,3
+S00273,Ogrenci_273,Endustri Muh.,2
+S00274,Ogrenci_274,Bilgisayar Muh.,2
+S00275,Ogrenci_275,Bilgisayar Muh.,4
+S00276,Ogrenci_276,Mimarlik,1
+S00277,Ogrenci_277,Bilgisayar Muh.,1
+S00278,Ogrenci_278,Endustri Muh.,1
+S00279,Ogrenci_279,Mimarlik,1
+S00280,Ogrenci_280,Endustri Muh.,4
+S00281,Ogrenci_281,Bilgisayar Muh.,1
+S00282,Ogrenci_282,Mimarlik,2
+S00283,Ogrenci_283,Isletme,1
+S00284,Ogrenci_284,Mimarlik,4
+S00285,Ogrenci_285,Bilgisayar Muh.,4
+S00286,Ogrenci_286,Mimarlik,4
+S00287,Ogrenci_287,Psikoloji,1
+S00288,Ogrenci_288,Endustri Muh.,1
+S00289,Ogrenci_289,Psikoloji,1
+S00290,Ogrenci_290,Psikoloji,3
+S00291,Ogrenci_291,Isletme,2
+S00292,Ogrenci_292,Endustri Muh.,3
+S00293,Ogrenci_293,Endustri Muh.,3
+S00294,Ogrenci_294,Isletme,3
+S00295,Ogrenci_295,Mimarlik,1
+S00296,Ogrenci_296,Isletme,3
+S00297,Ogrenci_297,Psikoloji,3
+S00298,Ogrenci_298,Endustri Muh.,4
+S00299,Ogrenci_299,Mimarlik,1
+S00300,Ogrenci_300,Isletme,3
+S00301,Ogrenci_301,Mimarlik,3
+S00302,Ogrenci_302,Mimarlik,1
+S00303,Ogrenci_303,Bilgisayar Muh.,4
+S00304,Ogrenci_304,Psikoloji,4
+S00305,Ogrenci_305,Bilgisayar Muh.,2
+S00306,Ogrenci_306,Endustri Muh.,2
+S00307,Ogrenci_307,Bilgisayar Muh.,3
+S00308,Ogrenci_308,Isletme,4
+S00309,Ogrenci_309,Psikoloji,1
+S00310,Ogrenci_310,Mimarlik,1
+S00311,Ogrenci_311,Endustri Muh.,4
+S00312,Ogrenci_312,Mimarlik,1
+S00313,Ogrenci_313,Mimarlik,3
+S00314,Ogrenci_314,Isletme,1
+S00315,Ogrenci_315,Psikoloji,4
+S00316,Ogrenci_316,Bilgisayar Muh.,4
+S00317,Ogrenci_317,Endustri Muh.,1
+S00318,Ogrenci_318,Endustri Muh.,2
+S00319,Ogrenci_319,Isletme,2
+S00320,Ogrenci_320,Psikoloji,1
+S00321,Ogrenci_321,Bilgisayar Muh.,4
+S00322,Ogrenci_322,Bilgisayar Muh.,2
+S00323,Ogrenci_323,Bilgisayar Muh.,4
+S00324,Ogrenci_324,Endustri Muh.,2
+S00325,Ogrenci_325,Bilgisayar Muh.,1
+S00326,Ogrenci_326,Psikoloji,4
+S00327,Ogrenci_327,Mimarlik,1
+S00328,Ogrenci_328,Mimarlik,4
+S00329,Ogrenci_329,Endustri Muh.,4
+S00330,Ogrenci_330,Isletme,2
+S00331,Ogrenci_331,Isletme,1
+S00332,Ogrenci_332,Bilgisayar Muh.,4
+S00333,Ogrenci_333,Endustri Muh.,1
+S00334,Ogrenci_334,Isletme,1
+S00335,Ogrenci_335,Isletme,4
+S00336,Ogrenci_336,Endustri Muh.,2
+S00337,Ogrenci_337,Endustri Muh.,2
+S00338,Ogrenci_338,Mimarlik,1
+S00339,Ogrenci_339,Psikoloji,2
+S00340,Ogrenci_340,Psikoloji,4
+S00341,Ogrenci_341,Mimarlik,4
+S00342,Ogrenci_342,Endustri Muh.,1
+S00343,Ogrenci_343,Endustri Muh.,2
+S00344,Ogrenci_344,Endustri Muh.,4
+S00345,Ogrenci_345,Mimarlik,1
+S00346,Ogrenci_346,Bilgisayar Muh.,3
+S00347,Ogrenci_347,Isletme,3
+S00348,Ogrenci_348,Psikoloji,2
+S00349,Ogrenci_349,Bilgisayar Muh.,4
+S00350,Ogrenci_350,Bilgisayar Muh.,1
+S00351,Ogrenci_351,Endustri Muh.,3
+S00352,Ogrenci_352,Psikoloji,3
+S00353,Ogrenci_353,Isletme,4
+S00354,Ogrenci_354,Bilgisayar Muh.,3
+S00355,Ogrenci_355,Psikoloji,3
+S00356,Ogrenci_356,Bilgisayar Muh.,3
+S00357,Ogrenci_357,Endustri Muh.,4
+S00358,Ogrenci_358,Bilgisayar Muh.,1
+S00359,Ogrenci_359,Psikoloji,4
+S00360,Ogrenci_360,Isletme,2
+S00361,Ogrenci_361,Bilgisayar Muh.,1
+S00362,Ogrenci_362,Isletme,3
+S00363,Ogrenci_363,Bilgisayar Muh.,3
+S00364,Ogrenci_364,Psikoloji,4
+S00365,Ogrenci_365,Bilgisayar Muh.,4
+S00366,Ogrenci_366,Psikoloji,2
+S00367,Ogrenci_367,Psikoloji,2
+S00368,Ogrenci_368,Psikoloji,1
+S00369,Ogrenci_369,Bilgisayar Muh.,1
+S00370,Ogrenci_370,Mimarlik,4
+S00371,Ogrenci_371,Endustri Muh.,1
+S00372,Ogrenci_372,Isletme,1
+S00373,Ogrenci_373,Mimarlik,1
+S00374,Ogrenci_374,Mimarlik,4
+S00375,Ogrenci_375,Bilgisayar Muh.,1
+S00376,Ogrenci_376,Endustri Muh.,1
+S00377,Ogrenci_377,Endustri Muh.,1
+S00378,Ogrenci_378,Bilgisayar Muh.,1
+S00379,Ogrenci_379,Mimarlik,4
+S00380,Ogrenci_380,Psikoloji,4
+S00381,Ogrenci_381,Isletme,4
+S00382,Ogrenci_382,Psikoloji,1
+S00383,Ogrenci_383,Isletme,1
+S00384,Ogrenci_384,Bilgisayar Muh.,4
+S00385,Ogrenci_385,Isletme,4
+S00386,Ogrenci_386,Isletme,3
+S00387,Ogrenci_387,Psikoloji,1
+S00388,Ogrenci_388,Endustri Muh.,1
+S00389,Ogrenci_389,Endustri Muh.,4
+S00390,Ogrenci_390,Mimarlik,2
+S00391,Ogrenci_391,Bilgisayar Muh.,3
+S00392,Ogrenci_392,Bilgisayar Muh.,4
+S00393,Ogrenci_393,Psikoloji,4
+S00394,Ogrenci_394,Isletme,4
+S00395,Ogrenci_395,Psikoloji,1
+S00396,Ogrenci_396,Bilgisayar Muh.,4
+S00397,Ogrenci_397,Bilgisayar Muh.,2
+S00398,Ogrenci_398,Psikoloji,3
+S00399,Ogrenci_399,Psikoloji,3
+S00400,Ogrenci_400,Bilgisayar Muh.,3
+S00401,Ogrenci_401,Endustri Muh.,1
+S00402,Ogrenci_402,Mimarlik,3
+S00403,Ogrenci_403,Psikoloji,3
+S00404,Ogrenci_404,Bilgisayar Muh.,1
+S00405,Ogrenci_405,Isletme,4
+S00406,Ogrenci_406,Bilgisayar Muh.,4
+S00407,Ogrenci_407,Isletme,3
+S00408,Ogrenci_408,Mimarlik,3
+S00409,Ogrenci_409,Psikoloji,4
+S00410,Ogrenci_410,Endustri Muh.,1
+S00411,Ogrenci_411,Bilgisayar Muh.,2
+S00412,Ogrenci_412,Isletme,3
+S00413,Ogrenci_413,Bilgisayar Muh.,1
+S00414,Ogrenci_414,Endustri Muh.,1
+S00415,Ogrenci_415,Endustri Muh.,3
+S00416,Ogrenci_416,Psikoloji,3
+S00417,Ogrenci_417,Endustri Muh.,4
+S00418,Ogrenci_418,Endustri Muh.,4
+S00419,Ogrenci_419,Bilgisayar Muh.,1
+S00420,Ogrenci_420,Isletme,1
+S00421,Ogrenci_421,Bilgisayar Muh.,3
+S00422,Ogrenci_422,Psikoloji,2
+S00423,Ogrenci_423,Isletme,2
+S00424,Ogrenci_424,Mimarlik,2
+S00425,Ogrenci_425,Isletme,1
+S00426,Ogrenci_426,Mimarlik,4
+S00427,Ogrenci_427,Endustri Muh.,3
+S00428,Ogrenci_428,Mimarlik,4
+S00429,Ogrenci_429,Bilgisayar Muh.,1
+S00430,Ogrenci_430,Endustri Muh.,1
+S00431,Ogrenci_431,Psikoloji,4
+S00432,Ogrenci_432,Bilgisayar Muh.,3
+S00433,Ogrenci_433,Mimarlik,2
+S00434,Ogrenci_434,Isletme,1
+S00435,Ogrenci_435,Endustri Muh.,1
+S00436,Ogrenci_436,Bilgisayar Muh.,1
+S00437,Ogrenci_437,Psikoloji,4
+S00438,Ogrenci_438,Endustri Muh.,1
+S00439,Ogrenci_439,Endustri Muh.,3
+S00440,Ogrenci_440,Psikoloji,1
+S00441,Ogrenci_441,Mimarlik,1
+S00442,Ogrenci_442,Mimarlik,3
+S00443,Ogrenci_443,Psikoloji,1
+S00444,Ogrenci_444,Psikoloji,2
+S00445,Ogrenci_445,Psikoloji,4
+S00446,Ogrenci_446,Bilgisayar Muh.,2
+S00447,Ogrenci_447,Bilgisayar Muh.,3
+S00448,Ogrenci_448,Bilgisayar Muh.,1
+S00449,Ogrenci_449,Endustri Muh.,3
+S00450,Ogrenci_450,Bilgisayar Muh.,2
+S00451,Ogrenci_451,Psikoloji,2
+S00452,Ogrenci_452,Bilgisayar Muh.,2
+S00453,Ogrenci_453,Psikoloji,3
+S00454,Ogrenci_454,Isletme,2
+S00455,Ogrenci_455,Psikoloji,1
+S00456,Ogrenci_456,Psikoloji,4
+S00457,Ogrenci_457,Psikoloji,1
+S00458,Ogrenci_458,Endustri Muh.,1
+S00459,Ogrenci_459,Endustri Muh.,2
+S00460,Ogrenci_460,Psikoloji,4
+S00461,Ogrenci_461,Isletme,2
+S00462,Ogrenci_462,Endustri Muh.,1
+S00463,Ogrenci_463,Endustri Muh.,2
+S00464,Ogrenci_464,Endustri Muh.,4
+S00465,Ogrenci_465,Psikoloji,4
+S00466,Ogrenci_466,Endustri Muh.,1
+S00467,Ogrenci_467,Psikoloji,1
+S00468,Ogrenci_468,Bilgisayar Muh.,4
+S00469,Ogrenci_469,Bilgisayar Muh.,2
+S00470,Ogrenci_470,Bilgisayar Muh.,4
+S00471,Ogrenci_471,Bilgisayar Muh.,3
+S00472,Ogrenci_472,Mimarlik,3
+S00473,Ogrenci_473,Bilgisayar Muh.,2
+S00474,Ogrenci_474,Bilgisayar Muh.,3
+S00475,Ogrenci_475,Mimarlik,2
+S00476,Ogrenci_476,Mimarlik,3
+S00477,Ogrenci_477,Psikoloji,1
+S00478,Ogrenci_478,Psikoloji,3
+S00479,Ogrenci_479,Bilgisayar Muh.,4
+S00480,Ogrenci_480,Endustri Muh.,3
+S00481,Ogrenci_481,Psikoloji,4
+S00482,Ogrenci_482,Endustri Muh.,1
+S00483,Ogrenci_483,Bilgisayar Muh.,3
+S00484,Ogrenci_484,Isletme,2
+S00485,Ogrenci_485,Endustri Muh.,3
+S00486,Ogrenci_486,Isletme,1
+S00487,Ogrenci_487,Endustri Muh.,2
+S00488,Ogrenci_488,Mimarlik,4
+S00489,Ogrenci_489,Endustri Muh.,4
+S00490,Ogrenci_490,Isletme,3
+S00491,Ogrenci_491,Bilgisayar Muh.,3
+S00492,Ogrenci_492,Isletme,3
+S00493,Ogrenci_493,Endustri Muh.,1
+S00494,Ogrenci_494,Psikoloji,2
+S00495,Ogrenci_495,Mimarlik,4
+S00496,Ogrenci_496,Mimarlik,4
+S00497,Ogrenci_497,Bilgisayar Muh.,3
+S00498,Ogrenci_498,Endustri Muh.,1
+S00499,Ogrenci_499,Mimarlik,3
+S00500,Ogrenci_500,Endustri Muh.,4
+S00501,Ogrenci_501,Psikoloji,1
+S00502,Ogrenci_502,Isletme,1
+S00503,Ogrenci_503,Psikoloji,1
+S00504,Ogrenci_504,Endustri Muh.,1
+S00505,Ogrenci_505,Bilgisayar Muh.,1
+S00506,Ogrenci_506,Endustri Muh.,4
+S00507,Ogrenci_507,Bilgisayar Muh.,4
+S00508,Ogrenci_508,Mimarlik,3
+S00509,Ogrenci_509,Isletme,3
+S00510,Ogrenci_510,Bilgisayar Muh.,2
+S00511,Ogrenci_511,Isletme,4
+S00512,Ogrenci_512,Isletme,2
+S00513,Ogrenci_513,Psikoloji,1
+S00514,Ogrenci_514,Mimarlik,3
+S00515,Ogrenci_515,Bilgisayar Muh.,3
+S00516,Ogrenci_516,Mimarlik,1
+S00517,Ogrenci_517,Psikoloji,4
+S00518,Ogrenci_518,Endustri Muh.,4
+S00519,Ogrenci_519,Isletme,1
+S00520,Ogrenci_520,Bilgisayar Muh.,2
+S00521,Ogrenci_521,Bilgisayar Muh.,2
+S00522,Ogrenci_522,Bilgisayar Muh.,3
+S00523,Ogrenci_523,Mimarlik,4
+S00524,Ogrenci_524,Psikoloji,2
+S00525,Ogrenci_525,Endustri Muh.,1
+S00526,Ogrenci_526,Isletme,1
+S00527,Ogrenci_527,Mimarlik,2
+S00528,Ogrenci_528,Endustri Muh.,1
+S00529,Ogrenci_529,Bilgisayar Muh.,4
+S00530,Ogrenci_530,Mimarlik,3
+S00531,Ogrenci_531,Isletme,2
+S00532,Ogrenci_532,Mimarlik,1
+S00533,Ogrenci_533,Bilgisayar Muh.,4
+S00534,Ogrenci_534,Psikoloji,1
+S00535,Ogrenci_535,Bilgisayar Muh.,3
+S00536,Ogrenci_536,Mimarlik,4
+S00537,Ogrenci_537,Bilgisayar Muh.,2
+S00538,Ogrenci_538,Endustri Muh.,3
+S00539,Ogrenci_539,Isletme,4
+S00540,Ogrenci_540,Psikoloji,1
+S00541,Ogrenci_541,Bilgisayar Muh.,3
+S00542,Ogrenci_542,Bilgisayar Muh.,3
+S00543,Ogrenci_543,Mimarlik,3
+S00544,Ogrenci_544,Isletme,3
+S00545,Ogrenci_545,Bilgisayar Muh.,2
+S00546,Ogrenci_546,Endustri Muh.,1
+S00547,Ogrenci_547,Bilgisayar Muh.,2
+S00548,Ogrenci_548,Endustri Muh.,3
+S00549,Ogrenci_549,Mimarlik,3
+S00550,Ogrenci_550,Mimarlik,1
+S00551,Ogrenci_551,Isletme,4
+S00552,Ogrenci_552,Mimarlik,1
+S00553,Ogrenci_553,Psikoloji,1
+S00554,Ogrenci_554,Mimarlik,4
+S00555,Ogrenci_555,Bilgisayar Muh.,4
+S00556,Ogrenci_556,Endustri Muh.,3
+S00557,Ogrenci_557,Mimarlik,1
+S00558,Ogrenci_558,Mimarlik,1
+S00559,Ogrenci_559,Endustri Muh.,3
+S00560,Ogrenci_560,Psikoloji,2
+S00561,Ogrenci_561,Isletme,2
+S00562,Ogrenci_562,Isletme,3
+S00563,Ogrenci_563,Isletme,1
+S00564,Ogrenci_564,Psikoloji,4
+S00565,Ogrenci_565,Endustri Muh.,1
+S00566,Ogrenci_566,Psikoloji,3
+S00567,Ogrenci_567,Psikoloji,1
+S00568,Ogrenci_568,Isletme,1
+S00569,Ogrenci_569,Endustri Muh.,4
+S00570,Ogrenci_570,Endustri Muh.,2
+S00571,Ogrenci_571,Endustri Muh.,4
+S00572,Ogrenci_572,Mimarlik,1
+S00573,Ogrenci_573,Endustri Muh.,1
+S00574,Ogrenci_574,Isletme,1
+S00575,Ogrenci_575,Isletme,1
+S00576,Ogrenci_576,Psikoloji,4
+S00577,Ogrenci_577,Endustri Muh.,4
+S00578,Ogrenci_578,Isletme,4
+S00579,Ogrenci_579,Isletme,4
+S00580,Ogrenci_580,Isletme,3
+S00581,Ogrenci_581,Bilgisayar Muh.,3
+S00582,Ogrenci_582,Endustri Muh.,2
+S00583,Ogrenci_583,Mimarlik,4
+S00584,Ogrenci_584,Bilgisayar Muh.,3
+S00585,Ogrenci_585,Psikoloji,3
+S00586,Ogrenci_586,Psikoloji,1
+S00587,Ogrenci_587,Isletme,3
+S00588,Ogrenci_588,Isletme,1
+S00589,Ogrenci_589,Endustri Muh.,4
+S00590,Ogrenci_590,Endustri Muh.,4
+S00591,Ogrenci_591,Psikoloji,2
+S00592,Ogrenci_592,Mimarlik,1
+S00593,Ogrenci_593,Psikoloji,3
+S00594,Ogrenci_594,Psikoloji,1
+S00595,Ogrenci_595,Endustri Muh.,1
+S00596,Ogrenci_596,Mimarlik,2
+S00597,Ogrenci_597,Bilgisayar Muh.,2
+S00598,Ogrenci_598,Psikoloji,3
+S00599,Ogrenci_599,Mimarlik,3
+S00600,Ogrenci_600,Bilgisayar Muh.,2
+S00601,Ogrenci_601,Endustri Muh.,3
+S00602,Ogrenci_602,Endustri Muh.,1
+S00603,Ogrenci_603,Bilgisayar Muh.,1
+S00604,Ogrenci_604,Endustri Muh.,1
+S00605,Ogrenci_605,Bilgisayar Muh.,4
+S00606,Ogrenci_606,Bilgisayar Muh.,1
+S00607,Ogrenci_607,Psikoloji,2
+S00608,Ogrenci_608,Psikoloji,3
+S00609,Ogrenci_609,Bilgisayar Muh.,4
+S00610,Ogrenci_610,Isletme,4
+S00611,Ogrenci_611,Isletme,1
+S00612,Ogrenci_612,Isletme,4
+S00613,Ogrenci_613,Endustri Muh.,2
+S00614,Ogrenci_614,Isletme,2
+S00615,Ogrenci_615,Isletme,3
+S00616,Ogrenci_616,Bilgisayar Muh.,3
+S00617,Ogrenci_617,Endustri Muh.,2
+S00618,Ogrenci_618,Bilgisayar Muh.,1
+S00619,Ogrenci_619,Bilgisayar Muh.,1
+S00620,Ogrenci_620,Bilgisayar Muh.,3
+S00621,Ogrenci_621,Isletme,3
+S00622,Ogrenci_622,Mimarlik,4
+S00623,Ogrenci_623,Endustri Muh.,2
+S00624,Ogrenci_624,Mimarlik,3
+S00625,Ogrenci_625,Bilgisayar Muh.,4
+S00626,Ogrenci_626,Endustri Muh.,4
+S00627,Ogrenci_627,Mimarlik,3
+S00628,Ogrenci_628,Psikoloji,4
+S00629,Ogrenci_629,Mimarlik,3
+S00630,Ogrenci_630,Psikoloji,4
+S00631,Ogrenci_631,Endustri Muh.,2
+S00632,Ogrenci_632,Endustri Muh.,4
+S00633,Ogrenci_633,Mimarlik,2
+S00634,Ogrenci_634,Bilgisayar Muh.,2
+S00635,Ogrenci_635,Endustri Muh.,2
+S00636,Ogrenci_636,Bilgisayar Muh.,3
+S00637,Ogrenci_637,Endustri Muh.,2
+S00638,Ogrenci_638,Bilgisayar Muh.,1
+S00639,Ogrenci_639,Mimarlik,1
+S00640,Ogrenci_640,Endustri Muh.,3
+S00641,Ogrenci_641,Mimarlik,4
+S00642,Ogrenci_642,Bilgisayar Muh.,4
+S00643,Ogrenci_643,Mimarlik,2
+S00644,Ogrenci_644,Isletme,1
+S00645,Ogrenci_645,Mimarlik,1
+S00646,Ogrenci_646,Endustri Muh.,3
+S00647,Ogrenci_647,Bilgisayar Muh.,2
+S00648,Ogrenci_648,Bilgisayar Muh.,1
+S00649,Ogrenci_649,Psikoloji,1
+S00650,Ogrenci_650,Bilgisayar Muh.,3
+S00651,Ogrenci_651,Mimarlik,1
+S00652,Ogrenci_652,Psikoloji,4
+S00653,Ogrenci_653,Psikoloji,4
+S00654,Ogrenci_654,Bilgisayar Muh.,3
+S00655,Ogrenci_655,Isletme,4
+S00656,Ogrenci_656,Endustri Muh.,4
+S00657,Ogrenci_657,Endustri Muh.,2
+S00658,Ogrenci_658,Isletme,4
+S00659,Ogrenci_659,Mimarlik,1
+S00660,Ogrenci_660,Psikoloji,3
+S00661,Ogrenci_661,Mimarlik,1
+S00662,Ogrenci_662,Endustri Muh.,3
+S00663,Ogrenci_663,Bilgisayar Muh.,2
+S00664,Ogrenci_664,Psikoloji,1
+S00665,Ogrenci_665,Bilgisayar Muh.,1
+S00666,Ogrenci_666,Bilgisayar Muh.,4
+S00667,Ogrenci_667,Isletme,1
+S00668,Ogrenci_668,Mimarlik,3
+S00669,Ogrenci_669,Endustri Muh.,2
+S00670,Ogrenci_670,Psikoloji,1
+S00671,Ogrenci_671,Bilgisayar Muh.,3
+S00672,Ogrenci_672,Endustri Muh.,3
+S00673,Ogrenci_673,Endustri Muh.,4
+S00674,Ogrenci_674,Psikoloji,4
+S00675,Ogrenci_675,Bilgisayar Muh.,3
+S00676,Ogrenci_676,Psikoloji,4
+S00677,Ogrenci_677,Endustri Muh.,3
+S00678,Ogrenci_678,Isletme,1
+S00679,Ogrenci_679,Isletme,1
+S00680,Ogrenci_680,Endustri Muh.,3
+S00681,Ogrenci_681,Bilgisayar Muh.,1
+S00682,Ogrenci_682,Bilgisayar Muh.,4
+S00683,Ogrenci_683,Mimarlik,2
+S00684,Ogrenci_684,Isletme,2
+S00685,Ogrenci_685,Bilgisayar Muh.,2
+S00686,Ogrenci_686,Mimarlik,2
+S00687,Ogrenci_687,Psikoloji,1
+S00688,Ogrenci_688,Endustri Muh.,2
+S00689,Ogrenci_689,Mimarlik,2
+S00690,Ogrenci_690,Mimarlik,1
+S00691,Ogrenci_691,Isletme,3
+S00692,Ogrenci_692,Mimarlik,2
+S00693,Ogrenci_693,Bilgisayar Muh.,2
+S00694,Ogrenci_694,Psikoloji,1
+S00695,Ogrenci_695,Mimarlik,4
+S00696,Ogrenci_696,Isletme,3
+S00697,Ogrenci_697,Bilgisayar Muh.,3
+S00698,Ogrenci_698,Mimarlik,3
+S00699,Ogrenci_699,Isletme,4
+S00700,Ogrenci_700,Psikoloji,3
+S00701,Ogrenci_701,Endustri Muh.,3
+S00702,Ogrenci_702,Bilgisayar Muh.,1
+S00703,Ogrenci_703,Isletme,2
+S00704,Ogrenci_704,Isletme,1
+S00705,Ogrenci_705,Mimarlik,4
+S00706,Ogrenci_706,Endustri Muh.,3
+S00707,Ogrenci_707,Mimarlik,4
+S00708,Ogrenci_708,Isletme,3
+S00709,Ogrenci_709,Endustri Muh.,2
+S00710,Ogrenci_710,Mimarlik,1
+S00711,Ogrenci_711,Mimarlik,1
+S00712,Ogrenci_712,Bilgisayar Muh.,1
+S00713,Ogrenci_713,Mimarlik,4
+S00714,Ogrenci_714,Mimarlik,1
+S00715,Ogrenci_715,Isletme,4
+S00716,Ogrenci_716,Bilgisayar Muh.,1
+S00717,Ogrenci_717,Endustri Muh.,1
+S00718,Ogrenci_718,Bilgisayar Muh.,3
+S00719,Ogrenci_719,Bilgisayar Muh.,3
+S00720,Ogrenci_720,Endustri Muh.,3
+S00721,Ogrenci_721,Psikoloji,3
+S00722,Ogrenci_722,Psikoloji,2
+S00723,Ogrenci_723,Psikoloji,1
+S00724,Ogrenci_724,Isletme,2
+S00725,Ogrenci_725,Mimarlik,1
+S00726,Ogrenci_726,Isletme,2
+S00727,Ogrenci_727,Isletme,3
+S00728,Ogrenci_728,Mimarlik,1
+S00729,Ogrenci_729,Mimarlik,2
+S00730,Ogrenci_730,Bilgisayar Muh.,2
+S00731,Ogrenci_731,Psikoloji,3
+S00732,Ogrenci_732,Mimarlik,2
+S00733,Ogrenci_733,Mimarlik,3
+S00734,Ogrenci_734,Endustri Muh.,1
+S00735,Ogrenci_735,Bilgisayar Muh.,3
+S00736,Ogrenci_736,Mimarlik,2
+S00737,Ogrenci_737,Isletme,1
+S00738,Ogrenci_738,Bilgisayar Muh.,2
+S00739,Ogrenci_739,Endustri Muh.,4
+S00740,Ogrenci_740,Psikoloji,2
+S00741,Ogrenci_741,Psikoloji,1
+S00742,Ogrenci_742,Isletme,3
+S00743,Ogrenci_743,Mimarlik,1
+S00744,Ogrenci_744,Mimarlik,3
+S00745,Ogrenci_745,Psikoloji,3
+S00746,Ogrenci_746,Psikoloji,3
+S00747,Ogrenci_747,Endustri Muh.,3
+S00748,Ogrenci_748,Psikoloji,1
+S00749,Ogrenci_749,Isletme,4
+S00750,Ogrenci_750,Bilgisayar Muh.,2
+S00751,Ogrenci_751,Isletme,4
+S00752,Ogrenci_752,Endustri Muh.,3
+S00753,Ogrenci_753,Mimarlik,2
+S00754,Ogrenci_754,Bilgisayar Muh.,2
+S00755,Ogrenci_755,Bilgisayar Muh.,3
+S00756,Ogrenci_756,Endustri Muh.,2
+S00757,Ogrenci_757,Endustri Muh.,4
+S00758,Ogrenci_758,Psikoloji,3
+S00759,Ogrenci_759,Endustri Muh.,3
+S00760,Ogrenci_760,Mimarlik,3
+S00761,Ogrenci_761,Psikoloji,2
+S00762,Ogrenci_762,Mimarlik,1
+S00763,Ogrenci_763,Endustri Muh.,3
+S00764,Ogrenci_764,Isletme,4
+S00765,Ogrenci_765,Psikoloji,3
+S00766,Ogrenci_766,Mimarlik,4
+S00767,Ogrenci_767,Endustri Muh.,4
+S00768,Ogrenci_768,Psikoloji,3
+S00769,Ogrenci_769,Isletme,4
+S00770,Ogrenci_770,Endustri Muh.,4
+S00771,Ogrenci_771,Mimarlik,4
+S00772,Ogrenci_772,Endustri Muh.,4
+S00773,Ogrenci_773,Mimarlik,1
+S00774,Ogrenci_774,Isletme,4
+S00775,Ogrenci_775,Psikoloji,1
+S00776,Ogrenci_776,Isletme,3
+S00777,Ogrenci_777,Bilgisayar Muh.,3
+S00778,Ogrenci_778,Mimarlik,2
+S00779,Ogrenci_779,Bilgisayar Muh.,1
+S00780,Ogrenci_780,Psikoloji,2
+S00781,Ogrenci_781,Isletme,2
+S00782,Ogrenci_782,Bilgisayar Muh.,2
+S00783,Ogrenci_783,Psikoloji,4
+S00784,Ogrenci_784,Psikoloji,3
+S00785,Ogrenci_785,Mimarlik,4
+S00786,Ogrenci_786,Mimarlik,2
+S00787,Ogrenci_787,Psikoloji,3
+S00788,Ogrenci_788,Bilgisayar Muh.,3
+S00789,Ogrenci_789,Psikoloji,3
+S00790,Ogrenci_790,Isletme,3
+S00791,Ogrenci_791,Mimarlik,2
+S00792,Ogrenci_792,Psikoloji,1
+S00793,Ogrenci_793,Isletme,2
+S00794,Ogrenci_794,Psikoloji,1
+S00795,Ogrenci_795,Isletme,2
+S00796,Ogrenci_796,Mimarlik,2
+S00797,Ogrenci_797,Bilgisayar Muh.,1
+S00798,Ogrenci_798,Mimarlik,1
+S00799,Ogrenci_799,Bilgisayar Muh.,3
+S00800,Ogrenci_800,Bilgisayar Muh.,3
+S00801,Ogrenci_801,Bilgisayar Muh.,4
+S00802,Ogrenci_802,Bilgisayar Muh.,2
+S00803,Ogrenci_803,Mimarlik,4
+S00804,Ogrenci_804,Endustri Muh.,2
+S00805,Ogrenci_805,Mimarlik,1
+S00806,Ogrenci_806,Isletme,1
+S00807,Ogrenci_807,Endustri Muh.,1
+S00808,Ogrenci_808,Endustri Muh.,1
+S00809,Ogrenci_809,Bilgisayar Muh.,2
+S00810,Ogrenci_810,Endustri Muh.,4
+S00811,Ogrenci_811,Bilgisayar Muh.,3
+S00812,Ogrenci_812,Psikoloji,1
+S00813,Ogrenci_813,Isletme,3
+S00814,Ogrenci_814,Endustri Muh.,3
+S00815,Ogrenci_815,Endustri Muh.,2
+S00816,Ogrenci_816,Mimarlik,3
+S00817,Ogrenci_817,Endustri Muh.,3
+S00818,Ogrenci_818,Bilgisayar Muh.,4
+S00819,Ogrenci_819,Psikoloji,4
+S00820,Ogrenci_820,Bilgisayar Muh.,4
+S00821,Ogrenci_821,Endustri Muh.,4
+S00822,Ogrenci_822,Mimarlik,1
+S00823,Ogrenci_823,Bilgisayar Muh.,4
+S00824,Ogrenci_824,Psikoloji,3
+S00825,Ogrenci_825,Bilgisayar Muh.,3
+S00826,Ogrenci_826,Endustri Muh.,3
+S00827,Ogrenci_827,Isletme,4
+S00828,Ogrenci_828,Mimarlik,4
+S00829,Ogrenci_829,Psikoloji,3
+S00830,Ogrenci_830,Mimarlik,4
+S00831,Ogrenci_831,Psikoloji,2
+S00832,Ogrenci_832,Mimarlik,1
+S00833,Ogrenci_833,Mimarlik,1
+S00834,Ogrenci_834,Isletme,2
+S00835,Ogrenci_835,Psikoloji,1
+S00836,Ogrenci_836,Psikoloji,1
+S00837,Ogrenci_837,Isletme,3
+S00838,Ogrenci_838,Mimarlik,4
+S00839,Ogrenci_839,Psikoloji,1
+S00840,Ogrenci_840,Isletme,2
+S00841,Ogrenci_841,Endustri Muh.,3
+S00842,Ogrenci_842,Endustri Muh.,2
+S00843,Ogrenci_843,Psikoloji,4
+S00844,Ogrenci_844,Mimarlik,4
+S00845,Ogrenci_845,Psikoloji,2
+S00846,Ogrenci_846,Isletme,3
+S00847,Ogrenci_847,Bilgisayar Muh.,2
+S00848,Ogrenci_848,Isletme,1
+S00849,Ogrenci_849,Endustri Muh.,1
+S00850,Ogrenci_850,Psikoloji,2
+S00851,Ogrenci_851,Endustri Muh.,3
+S00852,Ogrenci_852,Mimarlik,2
+S00853,Ogrenci_853,Endustri Muh.,4
+S00854,Ogrenci_854,Bilgisayar Muh.,4
+S00855,Ogrenci_855,Psikoloji,2
+S00856,Ogrenci_856,Bilgisayar Muh.,1
+S00857,Ogrenci_857,Mimarlik,2
+S00858,Ogrenci_858,Bilgisayar Muh.,3
+S00859,Ogrenci_859,Mimarlik,4
+S00860,Ogrenci_860,Psikoloji,3
+S00861,Ogrenci_861,Psikoloji,4
+S00862,Ogrenci_862,Mimarlik,3
+S00863,Ogrenci_863,Endustri Muh.,2
+S00864,Ogrenci_864,Psikoloji,4
+S00865,Ogrenci_865,Mimarlik,2
+S00866,Ogrenci_866,Endustri Muh.,3
+S00867,Ogrenci_867,Endustri Muh.,4
+S00868,Ogrenci_868,Mimarlik,1
+S00869,Ogrenci_869,Isletme,2
+S00870,Ogrenci_870,Isletme,2
+S00871,Ogrenci_871,Endustri Muh.,3
+S00872,Ogrenci_872,Isletme,3
+S00873,Ogrenci_873,Isletme,2
+S00874,Ogrenci_874,Endustri Muh.,4
+S00875,Ogrenci_875,Isletme,1
+S00876,Ogrenci_876,Mimarlik,3
+S00877,Ogrenci_877,Isletme,2
+S00878,Ogrenci_878,Psikoloji,3
+S00879,Ogrenci_879,Psikoloji,4
+S00880,Ogrenci_880,Psikoloji,3
+S00881,Ogrenci_881,Psikoloji,2
+S00882,Ogrenci_882,Psikoloji,1
+S00883,Ogrenci_883,Isletme,4
+S00884,Ogrenci_884,Bilgisayar Muh.,1
+S00885,Ogrenci_885,Endustri Muh.,1
+S00886,Ogrenci_886,Isletme,3
+S00887,Ogrenci_887,Bilgisayar Muh.,2
+S00888,Ogrenci_888,Isletme,2
+S00889,Ogrenci_889,Psikoloji,2
+S00890,Ogrenci_890,Mimarlik,4
+S00891,Ogrenci_891,Psikoloji,4
+S00892,Ogrenci_892,Bilgisayar Muh.,3
+S00893,Ogrenci_893,Endustri Muh.,4
+S00894,Ogrenci_894,Isletme,1
+S00895,Ogrenci_895,Isletme,3
+S00896,Ogrenci_896,Mimarlik,4
+S00897,Ogrenci_897,Mimarlik,1
+S00898,Ogrenci_898,Endustri Muh.,2
+S00899,Ogrenci_899,Psikoloji,3
+S00900,Ogrenci_900,Mimarlik,3
+S00901,Ogrenci_901,Isletme,1
+S00902,Ogrenci_902,Endustri Muh.,2
+S00903,Ogrenci_903,Mimarlik,1
+S00904,Ogrenci_904,Endustri Muh.,1
+S00905,Ogrenci_905,Psikoloji,2
+S00906,Ogrenci_906,Endustri Muh.,1
+S00907,Ogrenci_907,Psikoloji,2
+S00908,Ogrenci_908,Mimarlik,2
+S00909,Ogrenci_909,Isletme,4
+S00910,Ogrenci_910,Endustri Muh.,2
+S00911,Ogrenci_911,Endustri Muh.,3
+S00912,Ogrenci_912,Psikoloji,3
+S00913,Ogrenci_913,Psikoloji,4
+S00914,Ogrenci_914,Bilgisayar Muh.,3
+S00915,Ogrenci_915,Psikoloji,4
+S00916,Ogrenci_916,Psikoloji,4
+S00917,Ogrenci_917,Mimarlik,3
+S00918,Ogrenci_918,Bilgisayar Muh.,4
+S00919,Ogrenci_919,Isletme,2
+S00920,Ogrenci_920,Isletme,4
+S00921,Ogrenci_921,Isletme,1
+S00922,Ogrenci_922,Mimarlik,4
+S00923,Ogrenci_923,Bilgisayar Muh.,3
+S00924,Ogrenci_924,Psikoloji,3
+S00925,Ogrenci_925,Bilgisayar Muh.,4
+S00926,Ogrenci_926,Psikoloji,2
+S00927,Ogrenci_927,Bilgisayar Muh.,2
+S00928,Ogrenci_928,Mimarlik,1
+S00929,Ogrenci_929,Isletme,4
+S00930,Ogrenci_930,Isletme,2
+S00931,Ogrenci_931,Isletme,1
+S00932,Ogrenci_932,Bilgisayar Muh.,4
+S00933,Ogrenci_933,Isletme,1
+S00934,Ogrenci_934,Psikoloji,4
+S00935,Ogrenci_935,Bilgisayar Muh.,3
+S00936,Ogrenci_936,Bilgisayar Muh.,2
+S00937,Ogrenci_937,Bilgisayar Muh.,1
+S00938,Ogrenci_938,Psikoloji,4
+S00939,Ogrenci_939,Mimarlik,2
+S00940,Ogrenci_940,Psikoloji,2
+S00941,Ogrenci_941,Psikoloji,4
+S00942,Ogrenci_942,Isletme,1
+S00943,Ogrenci_943,Bilgisayar Muh.,4
+S00944,Ogrenci_944,Mimarlik,2
+S00945,Ogrenci_945,Isletme,1
+S00946,Ogrenci_946,Bilgisayar Muh.,4
+S00947,Ogrenci_947,Endustri Muh.,1
+S00948,Ogrenci_948,Bilgisayar Muh.,3
+S00949,Ogrenci_949,Isletme,1
+S00950,Ogrenci_950,Isletme,1
+S00951,Ogrenci_951,Isletme,4
+S00952,Ogrenci_952,Isletme,3
+S00953,Ogrenci_953,Bilgisayar Muh.,4
+S00954,Ogrenci_954,Mimarlik,4
+S00955,Ogrenci_955,Endustri Muh.,3
+S00956,Ogrenci_956,Endustri Muh.,1
+S00957,Ogrenci_957,Mimarlik,4
+S00958,Ogrenci_958,Psikoloji,3
+S00959,Ogrenci_959,Psikoloji,1
+S00960,Ogrenci_960,Psikoloji,1
+S00961,Ogrenci_961,Psikoloji,4
+S00962,Ogrenci_962,Psikoloji,4
+S00963,Ogrenci_963,Bilgisayar Muh.,2
+S00964,Ogrenci_964,Psikoloji,3
+S00965,Ogrenci_965,Mimarlik,4
+S00966,Ogrenci_966,Psikoloji,1
+S00967,Ogrenci_967,Psikoloji,4
+S00968,Ogrenci_968,Isletme,4
+S00969,Ogrenci_969,Endustri Muh.,3
+S00970,Ogrenci_970,Psikoloji,3
+S00971,Ogrenci_971,Psikoloji,4
+S00972,Ogrenci_972,Isletme,4
+S00973,Ogrenci_973,Isletme,2
+S00974,Ogrenci_974,Bilgisayar Muh.,2
+S00975,Ogrenci_975,Psikoloji,3
+S00976,Ogrenci_976,Psikoloji,3
+S00977,Ogrenci_977,Endustri Muh.,2
+S00978,Ogrenci_978,Mimarlik,4
+S00979,Ogrenci_979,Psikoloji,1
+S00980,Ogrenci_980,Isletme,3
+S00981,Ogrenci_981,Bilgisayar Muh.,2
+S00982,Ogrenci_982,Mimarlik,3
+S00983,Ogrenci_983,Endustri Muh.,2
+S00984,Ogrenci_984,Bilgisayar Muh.,1
+S00985,Ogrenci_985,Endustri Muh.,2
+S00986,Ogrenci_986,Mimarlik,4
+S00987,Ogrenci_987,Bilgisayar Muh.,2
+S00988,Ogrenci_988,Bilgisayar Muh.,1
+S00989,Ogrenci_989,Psikoloji,1
+S00990,Ogrenci_990,Psikoloji,1
+S00991,Ogrenci_991,Psikoloji,1
+S00992,Ogrenci_992,Endustri Muh.,4
+S00993,Ogrenci_993,Bilgisayar Muh.,2
+S00994,Ogrenci_994,Bilgisayar Muh.,3
+S00995,Ogrenci_995,Isletme,4
+S00996,Ogrenci_996,Isletme,1
+S00997,Ogrenci_997,Bilgisayar Muh.,3
+S00998,Ogrenci_998,Psikoloji,2
+S00999,Ogrenci_999,Endustri Muh.,2
+S01000,Ogrenci_1000,Isletme,2
+S01001,Ogrenci_1001,Psikoloji,2
+S01002,Ogrenci_1002,Endustri Muh.,3
+S01003,Ogrenci_1003,Endustri Muh.,2
+S01004,Ogrenci_1004,Psikoloji,2
+S01005,Ogrenci_1005,Bilgisayar Muh.,1
+S01006,Ogrenci_1006,Bilgisayar Muh.,1
+S01007,Ogrenci_1007,Endustri Muh.,3
+S01008,Ogrenci_1008,Endustri Muh.,2
+S01009,Ogrenci_1009,Mimarlik,4
+S01010,Ogrenci_1010,Psikoloji,2
+S01011,Ogrenci_1011,Mimarlik,1
+S01012,Ogrenci_1012,Endustri Muh.,4
+S01013,Ogrenci_1013,Bilgisayar Muh.,2
+S01014,Ogrenci_1014,Psikoloji,3
+S01015,Ogrenci_1015,Endustri Muh.,2
+S01016,Ogrenci_1016,Endustri Muh.,2
+S01017,Ogrenci_1017,Bilgisayar Muh.,4
+S01018,Ogrenci_1018,Psikoloji,2
+S01019,Ogrenci_1019,Endustri Muh.,3
+S01020,Ogrenci_1020,Psikoloji,2
+S01021,Ogrenci_1021,Mimarlik,1
+S01022,Ogrenci_1022,Isletme,1
+S01023,Ogrenci_1023,Mimarlik,1
+S01024,Ogrenci_1024,Isletme,2
+S01025,Ogrenci_1025,Mimarlik,1
+S01026,Ogrenci_1026,Isletme,1
+S01027,Ogrenci_1027,Endustri Muh.,3
+S01028,Ogrenci_1028,Psikoloji,4
+S01029,Ogrenci_1029,Psikoloji,3
+S01030,Ogrenci_1030,Endustri Muh.,4
+S01031,Ogrenci_1031,Endustri Muh.,2
+S01032,Ogrenci_1032,Mimarlik,2
+S01033,Ogrenci_1033,Isletme,3
+S01034,Ogrenci_1034,Isletme,4
+S01035,Ogrenci_1035,Psikoloji,4
+S01036,Ogrenci_1036,Bilgisayar Muh.,4
+S01037,Ogrenci_1037,Endustri Muh.,2
+S01038,Ogrenci_1038,Bilgisayar Muh.,4
+S01039,Ogrenci_1039,Isletme,4
+S01040,Ogrenci_1040,Endustri Muh.,3
+S01041,Ogrenci_1041,Bilgisayar Muh.,2
+S01042,Ogrenci_1042,Psikoloji,2
+S01043,Ogrenci_1043,Bilgisayar Muh.,4
+S01044,Ogrenci_1044,Mimarlik,4
+S01045,Ogrenci_1045,Isletme,4
+S01046,Ogrenci_1046,Endustri Muh.,1
+S01047,Ogrenci_1047,Mimarlik,4
+S01048,Ogrenci_1048,Bilgisayar Muh.,1
+S01049,Ogrenci_1049,Endustri Muh.,2
+S01050,Ogrenci_1050,Endustri Muh.,3
+S01051,Ogrenci_1051,Endustri Muh.,1
+S01052,Ogrenci_1052,Endustri Muh.,4
+S01053,Ogrenci_1053,Psikoloji,3
+S01054,Ogrenci_1054,Endustri Muh.,1
+S01055,Ogrenci_1055,Psikoloji,3
+S01056,Ogrenci_1056,Isletme,1
+S01057,Ogrenci_1057,Endustri Muh.,1
+S01058,Ogrenci_1058,Mimarlik,4
+S01059,Ogrenci_1059,Endustri Muh.,2
+S01060,Ogrenci_1060,Isletme,3
+S01061,Ogrenci_1061,Psikoloji,1
+S01062,Ogrenci_1062,Endustri Muh.,4
+S01063,Ogrenci_1063,Endustri Muh.,4
+S01064,Ogrenci_1064,Mimarlik,4
+S01065,Ogrenci_1065,Psikoloji,1
+S01066,Ogrenci_1066,Psikoloji,3
+S01067,Ogrenci_1067,Endustri Muh.,1
+S01068,Ogrenci_1068,Endustri Muh.,1
+S01069,Ogrenci_1069,Mimarlik,3
+S01070,Ogrenci_1070,Isletme,3
+S01071,Ogrenci_1071,Psikoloji,3
+S01072,Ogrenci_1072,Endustri Muh.,1
+S01073,Ogrenci_1073,Mimarlik,1
+S01074,Ogrenci_1074,Endustri Muh.,3
+S01075,Ogrenci_1075,Endustri Muh.,4
+S01076,Ogrenci_1076,Mimarlik,2
+S01077,Ogrenci_1077,Bilgisayar Muh.,3
+S01078,Ogrenci_1078,Isletme,3
+S01079,Ogrenci_1079,Mimarlik,4
+S01080,Ogrenci_1080,Mimarlik,4
+S01081,Ogrenci_1081,Bilgisayar Muh.,3
+S01082,Ogrenci_1082,Isletme,1
+S01083,Ogrenci_1083,Isletme,1
+S01084,Ogrenci_1084,Bilgisayar Muh.,3
+S01085,Ogrenci_1085,Isletme,3
+S01086,Ogrenci_1086,Isletme,4
+S01087,Ogrenci_1087,Psikoloji,1
+S01088,Ogrenci_1088,Endustri Muh.,3
+S01089,Ogrenci_1089,Isletme,2
+S01090,Ogrenci_1090,Endustri Muh.,3
+S01091,Ogrenci_1091,Psikoloji,3
+S01092,Ogrenci_1092,Psikoloji,4
+S01093,Ogrenci_1093,Isletme,4
+S01094,Ogrenci_1094,Mimarlik,4
+S01095,Ogrenci_1095,Isletme,1
+S01096,Ogrenci_1096,Endustri Muh.,3
+S01097,Ogrenci_1097,Mimarlik,3
+S01098,Ogrenci_1098,Bilgisayar Muh.,2
+S01099,Ogrenci_1099,Bilgisayar Muh.,4
+S01100,Ogrenci_1100,Bilgisayar Muh.,2
+S01101,Ogrenci_1101,Mimarlik,1
+S01102,Ogrenci_1102,Isletme,1
+S01103,Ogrenci_1103,Mimarlik,3
+S01104,Ogrenci_1104,Mimarlik,4
+S01105,Ogrenci_1105,Endustri Muh.,2
+S01106,Ogrenci_1106,Bilgisayar Muh.,2
+S01107,Ogrenci_1107,Bilgisayar Muh.,1
+S01108,Ogrenci_1108,Isletme,3
+S01109,Ogrenci_1109,Mimarlik,2
+S01110,Ogrenci_1110,Isletme,4
+S01111,Ogrenci_1111,Endustri Muh.,3
+S01112,Ogrenci_1112,Isletme,3
+S01113,Ogrenci_1113,Endustri Muh.,1
+S01114,Ogrenci_1114,Endustri Muh.,4
+S01115,Ogrenci_1115,Psikoloji,2
+S01116,Ogrenci_1116,Bilgisayar Muh.,1
+S01117,Ogrenci_1117,Endustri Muh.,2
+S01118,Ogrenci_1118,Mimarlik,2
+S01119,Ogrenci_1119,Bilgisayar Muh.,1
+S01120,Ogrenci_1120,Isletme,2
+S01121,Ogrenci_1121,Mimarlik,2
+S01122,Ogrenci_1122,Mimarlik,1
+S01123,Ogrenci_1123,Psikoloji,1
+S01124,Ogrenci_1124,Mimarlik,1
+S01125,Ogrenci_1125,Psikoloji,2
+S01126,Ogrenci_1126,Endustri Muh.,3
+S01127,Ogrenci_1127,Isletme,2
+S01128,Ogrenci_1128,Psikoloji,1
+S01129,Ogrenci_1129,Isletme,1
+S01130,Ogrenci_1130,Isletme,4
+S01131,Ogrenci_1131,Isletme,2
+S01132,Ogrenci_1132,Isletme,3
+S01133,Ogrenci_1133,Endustri Muh.,2
+S01134,Ogrenci_1134,Mimarlik,4
+S01135,Ogrenci_1135,Mimarlik,1
+S01136,Ogrenci_1136,Isletme,1
+S01137,Ogrenci_1137,Mimarlik,4
+S01138,Ogrenci_1138,Mimarlik,1
+S01139,Ogrenci_1139,Isletme,3
+S01140,Ogrenci_1140,Endustri Muh.,4
+S01141,Ogrenci_1141,Mimarlik,3
+S01142,Ogrenci_1142,Mimarlik,3
+S01143,Ogrenci_1143,Psikoloji,2
+S01144,Ogrenci_1144,Endustri Muh.,1
+S01145,Ogrenci_1145,Mimarlik,2
+S01146,Ogrenci_1146,Mimarlik,2
+S01147,Ogrenci_1147,Isletme,2
+S01148,Ogrenci_1148,Bilgisayar Muh.,1
+S01149,Ogrenci_1149,Isletme,1
+S01150,Ogrenci_1150,Psikoloji,3
+S01151,Ogrenci_1151,Isletme,2
+S01152,Ogrenci_1152,Isletme,2
+S01153,Ogrenci_1153,Psikoloji,1
+S01154,Ogrenci_1154,Isletme,2
+S01155,Ogrenci_1155,Isletme,3
+S01156,Ogrenci_1156,Isletme,1
+S01157,Ogrenci_1157,Psikoloji,3
+S01158,Ogrenci_1158,Psikoloji,1
+S01159,Ogrenci_1159,Bilgisayar Muh.,3
+S01160,Ogrenci_1160,Bilgisayar Muh.,4
+S01161,Ogrenci_1161,Psikoloji,3
+S01162,Ogrenci_1162,Bilgisayar Muh.,4
+S01163,Ogrenci_1163,Endustri Muh.,4
+S01164,Ogrenci_1164,Mimarlik,2
+S01165,Ogrenci_1165,Mimarlik,1
+S01166,Ogrenci_1166,Psikoloji,2
+S01167,Ogrenci_1167,Psikoloji,1
+S01168,Ogrenci_1168,Bilgisayar Muh.,3
+S01169,Ogrenci_1169,Endustri Muh.,4
+S01170,Ogrenci_1170,Endustri Muh.,4
+S01171,Ogrenci_1171,Bilgisayar Muh.,1
+S01172,Ogrenci_1172,Isletme,2
+S01173,Ogrenci_1173,Bilgisayar Muh.,3
+S01174,Ogrenci_1174,Bilgisayar Muh.,4
+S01175,Ogrenci_1175,Psikoloji,4
+S01176,Ogrenci_1176,Mimarlik,3
+S01177,Ogrenci_1177,Mimarlik,4
+S01178,Ogrenci_1178,Endustri Muh.,2
+S01179,Ogrenci_1179,Isletme,3
+S01180,Ogrenci_1180,Psikoloji,3
+S01181,Ogrenci_1181,Isletme,3
+S01182,Ogrenci_1182,Endustri Muh.,2
+S01183,Ogrenci_1183,Bilgisayar Muh.,3
+S01184,Ogrenci_1184,Psikoloji,2
+S01185,Ogrenci_1185,Mimarlik,4
+S01186,Ogrenci_1186,Endustri Muh.,3
+S01187,Ogrenci_1187,Mimarlik,2
+S01188,Ogrenci_1188,Mimarlik,2
+S01189,Ogrenci_1189,Psikoloji,1
+S01190,Ogrenci_1190,Endustri Muh.,4
+S01191,Ogrenci_1191,Psikoloji,4
+S01192,Ogrenci_1192,Bilgisayar Muh.,1
+S01193,Ogrenci_1193,Endustri Muh.,1
+S01194,Ogrenci_1194,Psikoloji,2
+S01195,Ogrenci_1195,Mimarlik,2
+S01196,Ogrenci_1196,Psikoloji,4
+S01197,Ogrenci_1197,Bilgisayar Muh.,3
+S01198,Ogrenci_1198,Bilgisayar Muh.,1
+S01199,Ogrenci_1199,Isletme,3
+S01200,Ogrenci_1200,Endustri Muh.,1
