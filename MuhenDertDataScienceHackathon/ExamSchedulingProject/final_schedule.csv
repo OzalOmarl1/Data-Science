@@ -1,0 +1,25 @@
+Major,Year,Section,SectionSize,Requires_PC,Date,Weekday,Time,Room,Capacity
+Mimarlik,4,1,79,False,2026-03-02,Monday,09:00,Arena B,100
+Psikoloji,1,1,67,False,2026-03-02,Monday,13:00,Arena B,100
+Isletme,1,1,65,False,2026-03-02,Monday,16:00,Arena B,100
+Mimarlik,1,1,63,False,2026-03-03,Tuesday,09:00,Arena B,100
+Psikoloji,4,1,62,False,2026-03-03,Tuesday,13:00,Arena B,100
+Endustri Muh.,2,1,62,False,2026-03-03,Tuesday,16:00,Arena B,100
+Endustri Muh.,1,1,62,False,2026-03-04,Wednesday,09:00,Arena B,100
+Isletme,3,1,61,False,2026-03-04,Wednesday,13:00,Arena B,100
+Endustri Muh.,3,1,61,False,2026-03-04,Wednesday,16:00,Arena B,100
+Psikoloji,3,1,59,False,2026-03-05,Thursday,09:00,Arena B,100
+Isletme,2,1,55,False,2026-03-05,Thursday,13:00,Arena B,100
+Endustri Muh.,4,1,55,False,2026-03-05,Thursday,16:00,Arena B,100
+Psikoloji,2,1,55,False,2026-03-06,Friday,09:00,Arena B,100
+Bilgisayar Muh.,2,1,50,True,2026-03-06,Friday,09:00,PC Lab,50
+Bilgisayar Muh.,3,1,50,True,2026-03-06,Friday,13:00,PC Lab,50
+Bilgisayar Muh.,4,1,50,True,2026-03-06,Friday,16:00,PC Lab,50
+Bilgisayar Muh.,1,1,50,True,2026-03-09,Monday,09:00,PC Lab,50
+Isletme,4,1,49,False,2026-03-09,Monday,09:00,Salon 1,50
+Mimarlik,3,1,49,False,2026-03-09,Monday,13:00,Salon 1,50
+Bilgisayar Muh.,3,2,20,True,2026-03-09,Monday,16:00,PC Lab,50
+Mimarlik,2,1,48,False,2026-03-09,Monday,16:00,Salon 1,50
+Bilgisayar Muh.,2,2,13,True,2026-03-10,Tuesday,09:00,PC Lab,50
+Bilgisayar Muh.,4,2,10,True,2026-03-10,Tuesday,13:00,PC Lab,50
+Bilgisayar Muh.,1,2,5,True,2026-03-10,Tuesday,16:00,PC Lab,50
